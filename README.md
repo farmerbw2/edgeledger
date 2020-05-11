@@ -7,7 +7,8 @@
 </head>
 
 <body>
-  <h1>Course: <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS and Sass</a></h1>
+  <h1>Course: <a href="https://www.udemy.com/course/modern-html-css-from-the-beginning/">Modern HTML & CSS From The Beginning (Including Sass)</a></h1>
+  <h2>Author: Brad Traversy</h2>
 
 </body>
 
